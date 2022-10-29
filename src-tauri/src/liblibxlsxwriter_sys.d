@@ -1,0 +1,1 @@
+C:\Users\k-tak\rust_system\xlsxwriter-rs\target\release\liblibxlsxwriter_sys.rlib: C:\Users\k-tak\rust_system\xlsxwriter-rs\libxlsxwriter-sys\build.rs C:\Users\k-tak\rust_system\xlsxwriter-rs\libxlsxwriter-sys\src\lib.rs C:\Users\k-tak\rust_system\xlsxwriter-rs\target\release\build\libxlsxwriter-sys-3a4050153ab19cca\out\bindings.rs
